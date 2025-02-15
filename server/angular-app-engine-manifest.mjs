@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://bbcoden01.github.io/static-ang',
+  basePath: '/static-ang',
   supportedLocales: {
   "en-US": ""
 },
